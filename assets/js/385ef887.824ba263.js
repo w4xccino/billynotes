@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbillynotes=self.webpackChunkbillynotes||[]).push([[763],{9075:s=>{s.exports=JSON.parse('{"label":"devops","permalink":"/billynotes/docs/tags/devops","allTagsPath":"/billynotes/docs/tags","count":1,"items":[{"id":"DevOps/What is","title":"What exactly is DevOps?","description":"What is DevOps?","permalink":"/billynotes/docs/DevOps/What is"}]}')}}]);

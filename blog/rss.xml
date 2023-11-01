@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Site Blog</title>
-        <link>https://w4xccino.github.io/blog</link>
+        <link>https://w4xccino.github.io/billynotes/blog</link>
         <description>My Site Blog</description>
         <lastBuildDate>Tue, 31 Oct 2023 18:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Today is Halloween]]></title>
-            <link>https://w4xccino.github.io/blog/halloween</link>
-            <guid>https://w4xccino.github.io/blog/halloween</guid>
+            <link>https://w4xccino.github.io/billynotes/blog/halloween</link>
+            <guid>https://w4xccino.github.io/billynotes/blog/halloween</guid>
             <pubDate>Tue, 31 Oct 2023 18:05:00 GMT</pubDate>
             <description><![CDATA[Uhmm I started to regret about not have gone to my English Classes today. I mean, this is my favorite date in the whole year and I'm here, in front of my screen, typing like a fucking loser. My GF has gone to France and she's is probably sleeping already.]]></description>
             <content:encoded><![CDATA[<p>Uhmm I started to regret about not have gone to my English Classes today. I mean, this is my favorite date in the whole year and I'm here, in front of my screen, typing like a fucking loser. My GF has gone to France and she's is probably sleeping already. </p><p>I don't know how to feel about myself. Am I a loser? Maybe just because I didn't go to my English classes I would lose the best day of the year? Should I feel like this? Probably I'll tell to my sister that I went to ELC but... IDK. I would like to play something to get those thoughts out of my mind but there's no one to play with...
@@ -21,8 +21,8 @@ I was thinking about sharing it... but probably I won't do it.</p>]]></content:e
         </item>
         <item>
             <title><![CDATA[Welcome To My Shit]]></title>
-            <link>https://w4xccino.github.io/blog/welcome</link>
-            <guid>https://w4xccino.github.io/blog/welcome</guid>
+            <link>https://w4xccino.github.io/billynotes/blog/welcome</link>
+            <guid>https://w4xccino.github.io/billynotes/blog/welcome</guid>
             <pubDate>Tue, 31 Oct 2023 17:36:00 GMT</pubDate>
             <description><![CDATA[Hi everyone, I know this is kinda cliche for most of you. But I think the idea of make my own blog, with my own tools(but this is docusaurus) makes me feel so productive and pure. I need to be honest with myself starting to say I didn't go to my English Classes because I was doing this shit. I mean, it's not a shit itself, I really proud of this because It was sort of challenging for me. Specially the part of Deployment.]]></description>
             <content:encoded><![CDATA[<p>Hi everyone, I know this is kinda cliche for most of you. But I think the idea of make my own blog, with my own tools(but this is docusaurus) makes me feel so productive and pure. I need to be honest with myself starting to say I didn't go to my English Classes because I was doing this shit. I mean, it's not a shit itself, I really proud of this because It was sort of challenging for me. Specially the part of <code>Deployment</code>.</p><p>I followed a Youtube video and documentation as well. But I think tomorrow I'll link this, which is on GitHub Pages with my new web domain!!</p><blockquote><p><a href="https://billynotes.online" target="_blank" rel="noopener noreferrer">https://billynotes.online</a></p></blockquote><p>Actually, I'd to create another blog using Org Mode Syntax. Currently, I don't know how to insert music here in order to put it sometimes further in the future.</p><p><img loading="lazy" src="https://cdn.betterttv.net/emote/5b6c5efadd8fb0185163bd4f/3x.webp" alt="BoneZone" class="img_ev3q"></p><p>Tomorrow, I'll add some documentation and guides that I would learn about DevOps and all that kind of crap where I really got into it. OMG!</p>]]></content:encoded>
