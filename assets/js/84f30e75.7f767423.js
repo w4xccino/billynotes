@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbillynotes=self.webpackChunkbillynotes||[]).push([[706],{4466:s=>{s.exports=JSON.parse('{"label":"thoughts","permalink":"/blog/tags/thoughts","allTagsPath":"/blog/tags","count":2}')}}]);
