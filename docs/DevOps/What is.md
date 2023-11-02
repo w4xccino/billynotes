@@ -1,6 +1,7 @@
 ---
 title: What exactly is DevOps?
 authors: w4xccino
+sidebar_position: 1
 tags: [devops, learning]
 ---
 
