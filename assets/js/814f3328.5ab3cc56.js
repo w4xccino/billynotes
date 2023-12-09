@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbillynotes=self.webpackChunkbillynotes||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Docker?","permalink":"/blog/docker"},{"title":"Today is Halloween","permalink":"/blog/halloween"},{"title":"Welcome To My Shit","permalink":"/blog/welcome"}]}')}}]);
